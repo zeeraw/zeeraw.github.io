@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Philip Vieira</title>
-    <link>http://vall.in/categories/</link>
+    <link>https://vall.in/categories/</link>
     <description>Recent content in Categories on Philip Vieira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; Philip Vieira</copyright>
     
-	<atom:link href="http://vall.in/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vall.in/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

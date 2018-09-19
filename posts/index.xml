@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Philip Vieira</title>
+    <link>http://vall.in/posts/</link>
+    <description>Recent content in Posts on Philip Vieira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; Philip Vieira</copyright>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://vall.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a Hugo blog</title>
+      <link>http://vall.in/posts/2018-09-19-creating-a-hugo-blog/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://vall.in/posts/2018-09-19-creating-a-hugo-blog/</guid>
+      <description>After spending a whole eight years of my career without a website, I decided enough is enough and started putting some research in to what kind of website I want to build. There are many options out there and I finally settled on something that will help me work quickly but also at a very low cost.
+It struck me fairly fast that I don&amp;rsquo;t want to spend a huge amount of time on things like site security, fees, maintenance.</description>
+    </item>
+    
+  </channel>
+</rss>
