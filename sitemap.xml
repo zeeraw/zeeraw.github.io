@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vall.in/posts/2018-09-19-creating-a-hugo-blog/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vall.in/about/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
   </url>
@@ -14,6 +19,12 @@
   
   <url>
     <loc>https://vall.in/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vall.in/posts/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
