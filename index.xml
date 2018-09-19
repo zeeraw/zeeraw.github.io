@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philip Vieira</title>
+    <link>http://vall.in/</link>
+    <description>Recent content on Philip Vieira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; Philip Vieira</copyright>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://vall.in/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Philip Vieira</title>
+      <link>http://vall.in/about/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://vall.in/about/</guid>
+      <description>I am a self-taught software engineer.
+See my open source software at on my GitHub profile or follow me on my Twitter @zeeraw.</description>
+    </item>
+    
+  </channel>
+</rss>
